@@ -1,0 +1,59 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Camisa",
+      "price": 59.9
+    },
+    {
+      "id": 2,
+      "name": "Calça vermelha",
+      "price": 90
+    },
+    {
+      "id": 3,
+      "name": "Boné aba reta",
+      "price": 29.9
+    },
+    {
+      "id": "4f58",
+      "name": "suporte",
+      "price": "210"
+    },
+    {
+      "id": "eb16",
+      "name": "teste tbl",
+      "price": "100"
+    },
+    {
+      "id": "3e0f",
+      "name": "teste tbl",
+      "price": "100"
+    },
+    {
+      "id": "28c1",
+      "name": "teste tbl",
+      "price": "1"
+    },
+    {
+      "id": "2374",
+      "name": "teste tbl",
+      "price": "1"
+    },
+    {
+      "id": "0ad0",
+      "name": "vinicius",
+      "price": "1"
+    },
+    {
+      "id": "edc7",
+      "name": "teste tbl",
+      "price": "1"
+    },
+    {
+      "id": "ef53",
+      "name": "teste tbl",
+      "price": "1"
+    }
+  ]
+}
