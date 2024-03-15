@@ -1,0 +1,9 @@
+.Products{
+    background-color: whitesmoke;
+    min-height: 93vh;
+    padding: 1.5rem 1rem;
+}
+
+.Products h1{
+    margin-top: 0;
+}
