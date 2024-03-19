@@ -1,24 +1,19 @@
 {
-    "products": [
-      {
-        "id": "1",
-        "name": "Fone de Ouvido",
-        "price": 59.9
-      },
-      {
-        "id": "ce25",
-        "name": "Iphone 11",
-        "price": 1000
-      },
-      {
-        "id": "3a0f",
-        "name": "Camisa futebol",
-        "price": 100
-      },
-      {
-        "id": "14db",
-        "name": "jbl ",
-        "price": 1000
-      }
-    ]
-  }
+  "products": [
+    {
+      "id": "6665",
+      "name": "teste",
+      "price": 1000
+    },
+    {
+      "id": "69e3",
+      "name": "teste novo",
+      "price": 10
+    },
+    {
+      "id": "05f6",
+      "name": "teste",
+      "price": 1000
+    }
+  ]
+}

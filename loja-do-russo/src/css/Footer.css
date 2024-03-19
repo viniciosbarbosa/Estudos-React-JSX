@@ -17,3 +17,10 @@
 .footerSpace{
     padding: 1rem;
 }
+
+@media screen and (max-width: 600px){
+   .footer{
+    min-width: 100%;
+    position: fixed;
+   }
+}
